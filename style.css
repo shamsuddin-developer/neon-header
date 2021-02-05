@@ -38,6 +38,6 @@ body {
   background: #fe3a80;
   padding: 0 20px;
   z-index: -2;
-  opacity: 0.6;
+  opacity: 0.5;
   filter: blur(40px);
 }
